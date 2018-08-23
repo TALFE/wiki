@@ -10,4 +10,5 @@
   * [物理线图]
   * [化学编辑器]
 * [前端代码规范](rules/README.md)
-
+* [前端工具使用](tools/README.md)
+  * [npm 私有仓库 install 使用方法](tools/npm.md)
